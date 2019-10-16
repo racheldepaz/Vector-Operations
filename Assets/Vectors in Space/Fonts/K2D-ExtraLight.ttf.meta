@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cd78615b676c9784f8b0e4975dcbee80
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: K2D ExtraLight
+  fontNames:
+  - K2D ExtraLight
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 202a94eb9a0ccd24bbb799ac28226ecf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

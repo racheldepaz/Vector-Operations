@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 47e46f5e153c7a44a837c4beb4101f8d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: K2D Medium
+  fontNames:
+  - K2D Medium
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 01cb73065728a3c4c8a4f8b1bfbf7fd6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

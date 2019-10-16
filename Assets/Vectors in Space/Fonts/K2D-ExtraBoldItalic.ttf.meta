@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 451cd81a26fca684a9bc1521af812077
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: K2D ExtraBold
+  fontNames:
+  - K2D ExtraBold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 018cda91ce2ade140ba5811dfa7e3801, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

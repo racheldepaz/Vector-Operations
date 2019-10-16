@@ -1,0 +1,2 @@
+BUG: press the menu to turn answers on, press the menu again. and the axes disappear from their original position and move to another corner of the room. 
+FIXED 9/6/19. 
