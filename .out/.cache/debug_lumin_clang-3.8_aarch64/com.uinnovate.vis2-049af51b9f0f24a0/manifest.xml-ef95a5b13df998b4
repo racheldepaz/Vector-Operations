@@ -1,0 +1,8 @@
+<manifest xmlns:ml="magicleap" ml:developer_id="49ae1b99-94a5-4bfb-bcd4-8254f22131cb" ml:package="com.uinnovate.vis2" ml:version_code="1" ml:version_name="">
+  <application ml:min_api_level="2" ml:sdk_version="1.0" ml:visible_name="VIS2">
+    <uses-privilege ml:name="LowLatencyLightwear" />
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="VIS2">
+      <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
+    </component>
+  </application>
+</manifest>

@@ -78,6 +78,7 @@ public class CanvasScript : MonoBehaviour
                 TMPAssignUnitVectors(component, end);
                 break;
             case 3:
+                //TMPAssignAngles(component, end);
                 TMPAssignAngles(component, end);
                 break;
             default:
@@ -89,7 +90,7 @@ public class CanvasScript : MonoBehaviour
     #region Private Methods
     private void TMPAssignAngles(int component, Vector3 point)
     {
-        SetCorrectParentActive(0);
+        //SetCorrectParentActive(0);
         switch (component)
         {
             case 0:
@@ -101,14 +102,14 @@ public class CanvasScript : MonoBehaviour
                 break;
             case 1:
 
-                yAngleText.transform.position = point + new Vector3(0.01f, 0.01f, 0.01f);
+                yAngleText.transform.position = point;
                 rotTowardsUser = Quaternion.LookRotation(yAngleText.transform.position - _camera.transform.position);
                 yAngleText.transform.rotation = Quaternion.Slerp(yAngleText.transform.rotation, rotTowardsUser, 1.5f);
 
                 yAngleText.text = angleY.ToString("N2") + "°";
                 break;
             case 2:
-                zAngleText.transform.position = point + new Vector3(0.01f, 0.01f, 0.01f);
+                zAngleText.transform.position = point;
                 rotTowardsUser = Quaternion.LookRotation(zAngleText.transform.position - _camera.transform.position);
                 zAngleText.transform.rotation = Quaternion.Slerp(zAngleText.transform.rotation, rotTowardsUser, 1.5f);
 
@@ -172,7 +173,6 @@ public class CanvasScript : MonoBehaviour
                 xAxisText.text = "X";
                 break;
             case 1:
-                //testing the git
                 yAxisText.transform.position = endPt + new Vector3(0.01f, 0.01f, 0.01f);
                 rotTowardsUser = Quaternion.LookRotation(yAxisText.transform.position - _camera.transform.position);
                 yAxisText.transform.rotation = Quaternion.Slerp(yAxisText.transform.rotation, rotTowardsUser, 1.5f);
@@ -283,31 +283,11 @@ public class CanvasScript : MonoBehaviour
     #region Unity Methods
     void Awake()
     {
-        for (int i = 0; i < 3; i++)
-        {
-            _angleLabels[i].text = null; 
-        }
+
     }
     void Update()
     {
-        for (int i = 0; i < 3; i++)
-        {
-            switch (i)
-            {
-                case 0:
-                    _angleLabels[i].text = "X angle: " + angleX.ToString("N2") + "°";
-                    break;
-                case 1:
-                    _angleLabels[i].text = "Y angle: " + angleY.ToString("N2") + "°";
-                    break;
-                case 2:
-                    _angleLabels[i].text = "Z angle: " + angleZ.ToString("N2") + "°";
-                    break;
-                default:
-                    Debug.Log("BRUH moment. There's a Brerror in CanvasScript's update function. Big sad."); //woah. meta. end my suffering.
-                    break;
-            }
-        }
+        
     } 
     #endregion
 }
