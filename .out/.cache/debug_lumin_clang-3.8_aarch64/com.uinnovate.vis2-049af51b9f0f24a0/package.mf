@@ -2,16 +2,16 @@
  "entries": [
   {
    "compression": 8,
-   "hash": "55452558764699583d2acf238363801af5c598da",
+   "hash": "f65c3de0eabbfef33df698079e7a94c644452e71",
    "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
-   "size": 3270012,
+   "size": 3270112,
    "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
   },
   {
    "compression": 8,
-   "hash": "a510d17c6c65994961035de6c929b222c60b767d",
+   "hash": "57bc74d7cd456348ff89dd5b2e33014244ff555c",
    "pkgpath": "bin/libil2cpp.so",
-   "size": 51229664,
+   "size": 51229848,
    "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Native/libil2cpp.so",
    "xfrm_flags": {
     "signed": {
@@ -23,9 +23,9 @@
      "version": 3
     }
    },
-   "xfrm_hash": "6118c180d337b01758e45a450b6bb0d4e2af737c",
+   "xfrm_hash": "66f51cb827d29f4356c3b54f1146793060aa36e5",
    "xfrm_path": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/.out/.cache/debug_lumin_clang-3.8_aarch64/com.uinnovate.vis2-049af51b9f0f24a0\\libil2cpp.so-c666484b6c26e161",
-   "xfrm_size": 51230422
+   "xfrm_size": 51230606
   },
   {
    "compression": 8,
@@ -242,23 +242,23 @@
   },
   {
    "compression": 8,
-   "hash": "0f47ab6fd4e2e0db1965ce96b12031128e1aac2f",
+   "hash": "89af2e3ede66ebce504410eb497d92bc282784b1",
    "pkgpath": "Data/globalgamemanagers",
    "size": 45288,
    "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/globalgamemanagers"
   },
   {
    "compression": 8,
-   "hash": "43998fcf3d9fb1634c82e1fb98ac626291a49d5e",
+   "hash": "10b04fbcce2465ff43eb7f9a4c14c063c4d41908",
    "pkgpath": "Data/globalgamemanagers.assets",
    "size": 47228,
    "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/globalgamemanagers.assets"
   },
   {
    "compression": 8,
-   "hash": "8c245be2c239e8a1bf5123fbce18385816fbf7cf",
+   "hash": "f82cd7b1555fabbeb862f69a68ed0a50d83b95d5",
    "pkgpath": "Data/level0",
-   "size": 48940,
+   "size": 48972,
    "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/level0"
   },
   {
@@ -270,9 +270,9 @@
   },
   {
    "compression": 8,
-   "hash": "32763bdaf0b5bfadd7e3c8f0436c6e257f0c9bb8",
+   "hash": "1e5cb93ee43bd962f9d08cc4750332857734c776",
    "pkgpath": "Data/resources.assets",
-   "size": 1115296,
+   "size": 1093848,
    "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/resources.assets"
   },
   {
@@ -284,9 +284,9 @@
   },
   {
    "compression": 8,
-   "hash": "08a018cae8b0b330c502bcd0b47cf592cc0283e6",
+   "hash": "e15e75fbe98160b5bf8aa2f5b41ad19ffacfafac",
    "pkgpath": "Data/sharedassets0.assets",
-   "size": 1137624,
+   "size": 1133800,
    "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/sharedassets0.assets"
   },
   {
@@ -338,7 +338,7 @@
   },
   {
    "compression": 8,
-   "hash": "90f1f43ea43111316fafaac9e4048e6af426f445",
+   "hash": "f72afd9843d74215eff67aa20827ceace9e44023",
    "pkgpath": "manifest.xml",
    "size": 521,
    "src": "C:\\Users\\13052\\Documents\\Unity Projects\\Vector Operations\\Vector Op\\Temp\\StagingArea\\manifest.xml",
@@ -348,7 +348,7 @@
      "developer_id": "49ae1b99-94a5-4bfb-bcd4-8254f22131cb"
     }
    },
-   "xfrm_hash": "795c17192f345791625a301c3f00e439bafa604b",
+   "xfrm_hash": "463884f45567e8fc7c316274bef2c24ebb169daf",
    "xfrm_path": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/.out/.cache/debug_lumin_clang-3.8_aarch64/com.uinnovate.vis2-049af51b9f0f24a0\\manifest.xml-ef95a5b13df998b4",
    "xfrm_size": 533
   }

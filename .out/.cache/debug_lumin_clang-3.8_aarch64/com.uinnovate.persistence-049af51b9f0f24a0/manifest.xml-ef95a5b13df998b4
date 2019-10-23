@@ -1,0 +1,32 @@
+<manifest xmlns:ml="magicleap" ml:developer_id="49ae1b99-94a5-4bfb-bcd4-8254f22131cb" ml:package="com.uinnovate.persistence" ml:version_code="1" ml:version_name="">
+  <application ml:min_api_level="5" ml:sdk_version="1.0" ml:visible_name="VIS2">
+    
+    <uses-privilege ml:name="AddressBookRead" />
+    
+    <uses-privilege ml:name="AddressBookWrite" />
+    
+    <uses-privilege ml:name="AudioCaptureMic" />
+    
+    <uses-privilege ml:name="CameraCapture" />
+    
+    <uses-privilege ml:name="GesturesSubscribe" />
+    
+    <uses-privilege ml:name="GesturesConfig" />
+    
+    <uses-privilege ml:name="Internet" />
+    
+    <uses-privilege ml:name="PwFoundObjRead" />
+    
+    <uses-privilege ml:name="WorldReconstruction" />
+    
+    <uses-privilege ml:name="ControllerPose" />
+    
+    <uses-privilege ml:name="CoarseLocation" />
+    
+    <uses-privilege ml:name="ScreensProvider" />
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="VIS2">
+      <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
+    </component>
+    <uses-privilege ml:name="LowLatencyLightwear" />
+  </application>
+</manifest>
