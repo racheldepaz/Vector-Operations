@@ -1,0 +1,367 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "f65c3de0eabbfef33df698079e7a94c644452e71",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 3270112,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "57bc74d7cd456348ff89dd5b2e33014244ff555c",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 51229848,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\13052\\MagicLeap\\certificates\\firstdev.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "66f51cb827d29f4356c3b54f1146793060aa36e5",
+   "xfrm_path": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/.out/.cache/debug_lumin_clang-3.8_aarch64/com.uinnovate.vis2-049af51b9f0f24a0\\libil2cpp.so-c666484b6c26e161",
+   "xfrm_size": 51230606
+  },
+  {
+   "compression": 8,
+   "hash": "5c856b80371bde9129f380cae53db7830d7c5138",
+   "pkgpath": "Data/Plugins/AudioPluginMSASpatializer.bundle",
+   "size": 257780,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.bundle"
+  },
+  {
+   "compression": 8,
+   "hash": "6b3b1067e8eeb28457c572292a209cc931e93089",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 269360,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\13052\\MagicLeap\\certificates\\firstdev.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "7a6593b29e04657a988453f3dee921abfd84b3de",
+   "xfrm_path": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/.out/.cache/debug_lumin_clang-3.8_aarch64/com.uinnovate.vis2-049af51b9f0f24a0\\AudioPluginMSASpatializer.so-925aaad75feba2d8",
+   "xfrm_size": 270118
+  },
+  {
+   "compression": 8,
+   "hash": "669fadf60b08b4d27a1b8bba01f4580d50c85dd6",
+   "pkgpath": "Data/Plugins/DecoderContext.cpp",
+   "size": 21170,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Plugins/DecoderContext.cpp"
+  },
+  {
+   "compression": 8,
+   "hash": "afa9e38dd968be0ecf4fcce342fd2c6df7d2bfa4",
+   "pkgpath": "Data/Plugins/DecoderContext.h",
+   "size": 1605,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Plugins/DecoderContext.h"
+  },
+  {
+   "compression": 8,
+   "hash": "dea6d095b3b3c461ae1024dfb5ccecb1f76f7384",
+   "pkgpath": "Data/Plugins/ExampleMusicProvider.cpp",
+   "size": 30030,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Plugins/ExampleMusicProvider.cpp"
+  },
+  {
+   "compression": 8,
+   "hash": "3d11598b07f7c39e344873569264bc0ae8b011cd",
+   "pkgpath": "bin/LuminMediaPlayer.dll",
+   "size": 68608,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Plugins/LuminMediaPlayer.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "3fdd7619da7dbbe3f2081bad8cda85af9853405f",
+   "pkgpath": "bin/LuminUnity.dll",
+   "size": 317440,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Plugins/LuminUnity.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "2b84960e69feef2581c620537c74686d537bfdef",
+   "pkgpath": "bin/MSA.Runtime.dll",
+   "size": 19968,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Plugins/MSA.Runtime.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "5fa4fbb5960028d3f6bc5184affe05c5d30e9f32",
+   "pkgpath": "Data/Plugins/MusicProviderContext.cpp",
+   "size": 1092,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Plugins/MusicProviderContext.cpp"
+  },
+  {
+   "compression": 8,
+   "hash": "7959215b2471cc484b9e3646953633e76beed318",
+   "pkgpath": "Data/Plugins/MusicProviderContext.h",
+   "size": 1881,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Plugins/MusicProviderContext.h"
+  },
+  {
+   "compression": 8,
+   "hash": "0052ade04448a06833c34c8bfebc416d73a44ef1",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 100864,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "2427dff41074dd7484a9d590523c0904adea6901",
+   "pkgpath": "bin/UnityEngine.UI.dll",
+   "size": 258048,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Plugins/UnityEngine.UI.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "59d035b177af853aa8ee2a78714391dae4657a36",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 1495008,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\13052\\MagicLeap\\certificates\\firstdev.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "693e9a2fc3c698cf14098a285e90e94105464d36",
+   "xfrm_path": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/.out/.cache/debug_lumin_clang-3.8_aarch64/com.uinnovate.vis2-049af51b9f0f24a0\\UnityMagicLeap.so-925aaad75feba2d8",
+   "xfrm_size": 1495766
+  },
+  {
+   "compression": 8,
+   "hash": "cf2a9409666397dfacb689ec38aa6bcb1aba178a",
+   "pkgpath": "Data/Plugins/Utility.cpp",
+   "size": 5496,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Plugins/Utility.cpp"
+  },
+  {
+   "compression": 8,
+   "hash": "bd0869f5a619c6f69b16ca15ddcdee09b2066eb7",
+   "pkgpath": "Data/Plugins/Utility.h",
+   "size": 476,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Plugins/Utility.h"
+  },
+  {
+   "compression": 8,
+   "hash": "c304dd41954e030c36437de3b651679e02512d0d",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\13052\\MagicLeap\\certificates\\firstdev.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "4a01f05bf49dabfa862fa1b5b1cfd31e10b59df2",
+   "xfrm_path": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/.out/.cache/debug_lumin_clang-3.8_aarch64/com.uinnovate.vis2-049af51b9f0f24a0\\libml_camera_plugin.so-925aaad75feba2d8",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "6a0b868a47b45da60d66c10ba6a0195b85f54e43",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 67624,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\13052\\MagicLeap\\certificates\\firstdev.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "c55a117503edba770889b37e3252a83804735c37",
+   "xfrm_path": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/.out/.cache/debug_lumin_clang-3.8_aarch64/com.uinnovate.vis2-049af51b9f0f24a0\\libml_mediaplayer_plugin.so-925aaad75feba2d8",
+   "xfrm_size": 68382
+  },
+  {
+   "compression": 8,
+   "hash": "984e4d2049ed5491b970ba15d1e8c8cadac0896e",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 339968,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "63c7ca62020949b1c87b1439f31b7a9719db98c1",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3652028,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "9b1ce580f7cec54ce6a1a6b53d87c5425438ad0e",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 754740,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "10506c7e5f53e331db0e8c7c94047849df023433",
+   "pkgpath": "Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json",
+   "size": 176,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "9f9d9fdfae69214ea57a2416e60a9fe924367caa",
+   "pkgpath": "Data/boot.config",
+   "size": 144,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "89af2e3ede66ebce504410eb497d92bc282784b1",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 45288,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "10b04fbcce2465ff43eb7f9a4c14c063c4d41908",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 47228,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "f82cd7b1555fabbeb862f69a68ed0a50d83b95d5",
+   "pkgpath": "Data/level0",
+   "size": 48972,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "066a61cf1e1fe1352eeb40b7a2fa901b8f090566",
+   "pkgpath": "Data/level0.resS",
+   "size": 131232,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "1e5cb93ee43bd962f9d08cc4750332857734c776",
+   "pkgpath": "Data/resources.assets",
+   "size": 1093848,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/resources.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "67b3a11ed83160322ae09a8cd7f950feb8c4cfc9",
+   "pkgpath": "Data/resources.assets.resS",
+   "size": 1758608,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/resources.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "e15e75fbe98160b5bf8aa2f5b41ad19ffacfafac",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 1133800,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "f38e1de62c23664b409c87998132c4773ad58600",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 2048496,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "8c90cd961cae0bcbdd862d0b91d219b1e46325d0",
+   "pkgpath": "bin/Player.elf",
+   "size": 20272024,
+   "src": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\13052\\MagicLeap\\certificates\\firstdev.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "8224267a229855a03dc15037ddbd51ad8d296c1c",
+   "xfrm_path": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/.out/.cache/debug_lumin_clang-3.8_aarch64/com.uinnovate.vis2-049af51b9f0f24a0\\Player.elf-ef95a5b13df998b4",
+   "xfrm_size": 20272782
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/13052/MagicLeap/mlsdk/v0.21.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\13052\\MagicLeap\\certificates\\firstdev.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "bacc3af59ce013b5613f26f52957e4079271a274",
+   "xfrm_path": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/.out/.cache/debug_lumin_clang-3.8_aarch64/com.uinnovate.vis2-049af51b9f0f24a0\\libc++_shared.so-8539984cad93bf18",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "f72afd9843d74215eff67aa20827ceace9e44023",
+   "pkgpath": "manifest.xml",
+   "size": 521,
+   "src": "C:\\Users\\13052\\Documents\\Unity Projects\\Vector Operations\\Vector Op\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "b035a9f50f88bb32b25e3f91bb66266b2044dcb9",
+     "developer_id": "49ae1b99-94a5-4bfb-bcd4-8254f22131cb"
+    }
+   },
+   "xfrm_hash": "463884f45567e8fc7c316274bef2c24ebb169daf",
+   "xfrm_path": "C:/Users/13052/Documents/Unity Projects/Vector Operations/Vector Op/.out/.cache/debug_lumin_clang-3.8_aarch64/com.uinnovate.vis2-049af51b9f0f24a0\\manifest.xml-ef95a5b13df998b4",
+   "xfrm_size": 533
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\13052\\MagicLeap\\certificates\\firstdev.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "C:\\Users\\13052\\MagicLeap\\certificates\\firstdev.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}

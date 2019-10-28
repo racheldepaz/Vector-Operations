@@ -16,7 +16,9 @@ namespace MagicLeap
         public GameObject menuPanel;
         public GameObject regularCanvas;
         public float measurementFactor = 1f;
-        public Text debug = null; 
+        public Text debug = null;
+        [Tooltip("The game object holding all of the assets")]
+        public MLPersistentBehavior persistentNode;
         #endregion
 
         #region Serialized Variables
@@ -151,8 +153,10 @@ namespace MagicLeap
                 {
                     _instructionLabel.text = "";
                     VectorVisualizer(content1.transform.position);
+                    persistentNode.UpdateBinding();
                  
                 }
+
             }
         }
 
