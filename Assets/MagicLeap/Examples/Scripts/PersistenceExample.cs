@@ -155,6 +155,7 @@ namespace MagicLeap
             }
 
             MLInput.OnControllerButtonDown -= HandleControllerButtonDown;
+            MLInput.OnTriggerDown -= HandleOnTriggerDown;
             MLInput.OnControllerTouchpadGestureStart -= HandleTouchpadGestureStart;
             MLInput.OnControllerTouchpadGestureContinue -= HandleTouchpadGestureContinue;
             MLInput.OnControllerTouchpadGestureEnd -= HandleTouchpadGestureEnd;
@@ -240,6 +241,17 @@ namespace MagicLeap
             else
             {
                 MLPersistentCoordinateFrames.OnInitialized += HandleInitialized;
+            }
+        }
+
+        void HandleOnTriggerDown(byte controllerId, float pressure)
+        {
+            if (controllerId != _controller.ConnectedController.Id)
+                return;
+            else
+            {
+                Vector3 position = _controller.transform.position + _controller.transform.forward * _distance;
+                CreateContent(position, _controller.transform.rotation);
             }
         }
 
@@ -389,6 +401,7 @@ namespace MagicLeap
         void PerformStartup()
         {
             MLInput.OnControllerButtonDown += HandleControllerButtonDown;
+            MLInput.OnTriggerDown += HandleOnTriggerDown;
             MLInput.OnControllerTouchpadGestureStart += HandleTouchpadGestureStart;
             MLInput.OnControllerTouchpadGestureContinue += HandleTouchpadGestureContinue;
             MLInput.OnControllerTouchpadGestureEnd += HandleTouchpadGestureEnd;

@@ -1,5 +1,5 @@
 <manifest xmlns:ml="magicleap" ml:developer_id="49ae1b99-94a5-4bfb-bcd4-8254f22131cb" ml:package="com.uinnovate.persistence" ml:version_code="1" ml:version_name="">
-  <application ml:min_api_level="5" ml:sdk_version="1.0" ml:visible_name="VIS2">
+  <application ml:min_api_level="5" ml:sdk_version="1.0" ml:visible_name="ARCloud">
     
     <uses-privilege ml:name="AddressBookRead" />
     
@@ -24,7 +24,7 @@
     <uses-privilege ml:name="CoarseLocation" />
     
     <uses-privilege ml:name="ScreensProvider" />
-    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="VIS2">
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="ARCloud">
       <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
     </component>
     <uses-privilege ml:name="LowLatencyLightwear" />
